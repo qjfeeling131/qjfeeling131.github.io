@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 14:10:40 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>http://example.org/contact/</link>
-      <pubDate>Sat, 06 Mar 2021 14:27:45 +0800</pubDate>
-      
-      <guid>http://example.org/contact/</guid>
-      <description>Wechat:18613020934 Phone:1 8613020934</description>
-    </item>
-    
+    <lastBuildDate>Sat, 06 Mar 2021 14:10:40 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>穿透</title>
       <link>http://example.org/post/first/</link>
@@ -39,15 +30,6 @@ A：如传统的封建家族，个人的个性被压抑，而整个家族的精�
 为什么广场舞并没有如我们想象中那样，成为促进社会交融，增强社区中共同情感的有效工具呢？
  话题有限 身份差异 背景不同  去。但前期的发现至少告诉我们，一起参与的广场舞，实际上并没有消弭由社会阶层差异所带来的身份区隔，也没有很好的帮助大家建立起常态化的社会交往关系。人和人之间，依旧是陌生、隔阂的，依旧没有整合进一个社区共同体中。
 该如何建立有效的渠道？</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://example.org/about/</link>
-      <pubDate>Sat, 06 Mar 2021 12:59:28 +0800</pubDate>
-      
-      <guid>http://example.org/about/</guid>
-      <description>Hello Pari  This is my first blog by Hugo  </description>
     </item>
     
   </channel>
